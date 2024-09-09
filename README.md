@@ -1,1 +1,1 @@
-Use Shortcode : [custom_product_search]
+Use Shortcode : <b>[custom_product_search]</b>
